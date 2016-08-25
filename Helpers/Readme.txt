@@ -1,0 +1,1 @@
+Some of the scripts in this folder are either from the BoxStarter open source project (https://github.com/mwrock/boxstarter/tree/master/Boxstarter.WinConfig) or from my own creation. Feel free to contribute.

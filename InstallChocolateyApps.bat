@@ -1,0 +1,1 @@
+powershell -executionpolicy bypass -file %~dps0InstallChocolateyApps.ps1
